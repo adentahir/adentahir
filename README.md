@@ -1,16 +1,6 @@
-# Hello there, I'm [Your Name] 👋
+# Hello there, I'm Aden 👋
 
 ## I'm a software developer working on diverse sets of projects!
-
-### Connect with me:
-
-[<img align="left" alt="your-website.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Your Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][email]
-[<img align="left" alt="Your LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Your Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="Your Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -29,15 +19,4 @@
 ![Elixir](https://img.shields.io/badge/-Elixir-000?&logo=Elixir)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-000?&logo=Phoenix)
 
-<br />
-
-<details>
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" />
-</details>
-
-<details>
-<summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Your GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide_border=true" />
-</details>
 
