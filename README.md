@@ -1,22 +1,33 @@
-# Hello there, I'm Aden 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;I'm Aden....;Glad+to+see+you+here!&center=true&width=500&height=50">
 
-## I'm a software developer working on diverse sets of projects!
+  <h2 align="center">Software Developer | Tech Enthusiast | Learner</h2>
 
-### Languages and Tools:
+  <p align="center">
+    <a href="mailto:your-email@example.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/adentahir"><img height="30" src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/adentahir"><img height="30" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+  </p>
+  
+  <p align="center">
+    <img height="30" src="https://img.shields.io/badge/-rust-000000?style=flat&logo=rust">
+    <img height="30" src="https://img.shields.io/badge/-javascript-F0DB4F?style=flat&logo=javascript&logoColor=black">
+    <img height="30" src="https://img.shields.io/badge/-typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/-react-61DBFB?style=flat&logo=react&logoColor=black">
+    <img height="30" src="https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/-elixir-4B275F?style=flat&logo=elixir">
+    <!-- Add more tech stack here -->
+  </p>
 
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
-![Elixir](https://img.shields.io/badge/-Elixir-000?&logo=Elixir)
-![Phoenix](https://img.shields.io/badge/-Phoenix-000?&logo=Phoenix)
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adentahir&show_icons=true&line_height=20&show_owner=false&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite">
+  </p>
 
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adentahir&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite">
+  </p>
 
+  <p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=adentahir&bg_color=0,73FA79,73FDFF,D783FF&color=8B949E&line=8B949E&point=FFFFFF&hide_border=true">
+  </p>
+</p>
