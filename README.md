@@ -19,13 +19,14 @@
     <!-- Add more tech stack here -->
   </p>
 
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adentahir&show_icons=true&line_height=20&show_owner=false&bg_color=0,000000,8A2BE2&theme=graywhite">
-  </p>
+ <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adentahir&show_icons=true&line_height=20&show_owner=false&theme=dracula">
+</p>
 
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adentahir&layout=compact&bg_color=0,000000,8A2BE2&theme=graywhite">
-  </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adentahir&layout=compact&theme=dracula">
+</p>
+
 
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adentahir&theme=dark&background=000000&stroke=8A2BE2">
