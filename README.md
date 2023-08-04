@@ -28,6 +28,7 @@
   </p>
 
   <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=adentahir&bg_color=0,000000,8A2BE2&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true">
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adentahir&theme=dark&background=000000&stroke=8A2BE2">
+</p>
+
 </p>
