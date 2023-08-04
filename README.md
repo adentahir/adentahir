@@ -33,3 +33,15 @@
 </p>
 
 </p>
+
+## My GitLab Projects
+
+- [practice project](https://gitlab.com/adentahir/practice-project) - No description provided.
+- [Notes remastered](https://gitlab.com/adentahir/notes-remastered) - No description provided.
+- [Tailwind ](https://gitlab.com/adentahir/tailwind) - No description provided.
+- [Ecto-Enigma](https://gitlab.com/adentahir/ecto-enigma) - No description provided.
+- [Phx project ](https://gitlab.com/adentahir/phx-project) - No description provided.
+- [Assessments](https://gitlab.com/adentahir/assessments) - Day 1 to 5 Assessment tasks in Elixir
+- [GS -project ](https://gitlab.com/adentahir/gs-project) - Implementing GenServer.
+- [Prac](https://gitlab.com/adentahir/prac) - Getting comfortable with various features of gitlab 
+- [exercism-with-elixir](https://gitlab.com/adentahir/exercism-with-elixir) - Completed Modules Only
