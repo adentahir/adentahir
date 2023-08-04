@@ -1,6 +1,7 @@
 name: Update README
 
-on:
+on: 
+  workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *'  # Every 12 hours
 
