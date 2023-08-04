@@ -2,14 +2,14 @@ import os
 import requests
 import time
 
-GITLAB_API = "https://gitlab.com/api/v4/users/{username}/projects"
+GITLAB_API = "https://gitlab.com/api/v4/users/adentahir/projects"
 MAX_RETRIES = 5
 RATE_LIMIT_PAUSE = 60
 
 def get_projects(username):
     retries = 0
     while retries < MAX_RETRIES:
-        response = requests.get(GITLAB_API.format(username=username))
+        response = requests.get(GITLAB_API.format(username="adentahir"))
         if response.status_code == 200:
             return response.json()
         elif response.status_code == 429:  # Rate limit exceeded
