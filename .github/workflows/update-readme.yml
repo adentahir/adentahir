@@ -22,7 +22,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Run script
-      run: python .github/scripts/update_readme.py
+      run: python update_readme.py
 
     - name: Push changes
       run: |
