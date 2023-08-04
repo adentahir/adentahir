@@ -26,8 +26,9 @@ jobs:
 
     - name: Push changes
       run: |
-        git config --local user.email "aden.tahir7@gmail.com"
-        git config --local user.name "Aden Tahir"
+        git config --local user.email "aden.tahir7@gmail.com"  # replace with your email
+        git config --local user.name "Aden Tahir"  # replace with your name
         git add README.md
         git commit -m "Updated README"
-        git push https://${{ secrets.PAT }}@github.com/adentahir/adentahir.git
+        git push https://${{ secrets.PAT }}@github.com/adentahir/adentahir.git HEAD:main
+
