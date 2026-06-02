@@ -46,18 +46,6 @@
 
 ---
 
-### 📫 Connect
-
-<p align="center">
-  <a href="mailto:aden.tahir7@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/adentahir">
-    <img height="30" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
 
 
 
